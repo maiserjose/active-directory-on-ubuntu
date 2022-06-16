@@ -1,5 +1,5 @@
 # Active Directory on Ubuntu 22.04 LTS
-This project helps you  configuring active directory (AD) on ubuntu than 18.04 but tested only on 22.04 LTS
+This project helps you  configuring active directory (AD) on ubuntu greater than 18.04 but tested only on 22.04 LTS
 
 
 ### Some considerations
