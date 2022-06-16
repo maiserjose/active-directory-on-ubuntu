@@ -9,7 +9,7 @@ This project helps you  configuring active directory (AD) on ubuntu than 18.04 b
 - I ingressed on AD domain during instalation of ubuntu 22.04. In deed I dont know if this influence on rest of this guide in
 some configurations values for example.
 
-- Check Oficial White-paper on pdf folder writen by Canonical for more specific details
+- Check Oficial White-paper on this root folder writen by Canonical for more specific details
 
 - Depending your AD configuration some configs may be changed (or maybe does not work)
 
